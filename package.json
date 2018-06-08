@@ -18,6 +18,7 @@
   },
   "homepage": "https://github.com/tomasz-konecki/node_getting_ip#readme",
   "dependencies": {
+    "chalk": "^2.4.1",
     "express": "^4.16.3",
     "fetch": "^1.1.0"
   }
